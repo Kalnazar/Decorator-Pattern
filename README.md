@@ -1,4 +1,4 @@
-# Decorator-Pattern
+# Decorator Pattern
 
 ### Type
 
